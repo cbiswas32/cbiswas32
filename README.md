@@ -3,13 +3,6 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 
 
-  <img 
-    align="center"
-    width="300"
-    height="300"
-    src="https://raw.githubusercontent.com/cbiswas32/cbiswas32/main/1622443634909%20(1).gif">
-
-
 - 🔭 I’m currently working for [Hawkdive Media](https://www.hawkdivemedia.com/)
 
 - 🌱 I’m currently learning **Flutter, Firebase, Machine Learning, AI**
