@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Chinmoy Biswas</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-<p align="center">
+<p align="right">
   <img 
     width="300"
     height="300"
