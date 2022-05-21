@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/cbiswas32/cbiswas32/main/1622448896565.gif)](https://cbiswas32.github.io/chinmoy.github.io/)
+[![MasterHead](https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)](https://cbiswas32.github.io/chinmoy.github.io/)
 <h1 align="center">Hi 👋, I'm Chinmoy Biswas</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
