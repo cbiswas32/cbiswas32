@@ -7,8 +7,7 @@
     align="center"
     width="300"
     height="300"
-    src="https://raw.githubusercontent.com/cbiswas32/cbiswas32/main/1622443634909%20(1).gif"
-  >
+    src="https://raw.githubusercontent.com/cbiswas32/cbiswas32/main/1622443634909%20(1).gif">
 
 
 - 🔭 I’m currently working for [Hawkdive Media](https://www.hawkdivemedia.com/)
