@@ -1,7 +1,14 @@
 [![MasterHead](https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif)](https://cbiswas32.github.io/chinmoy.github.io/)
 <h1 align="center">Hi 👋, I'm Chinmoy Biswas</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/cbiswas32/cbiswas32/main/1622443634909%20(1).gif">
+
+<p align="center">
+  <img 
+    width="300"
+    height="300"
+    src="https://raw.githubusercontent.com/cbiswas32/cbiswas32/main/1622443634909%20(1).gif"
+  >
+</p>
 
 - 🔭 I’m currently working for [Hawkdive Media](https://www.hawkdivemedia.com/)
 
