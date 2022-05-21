@@ -1,4 +1,4 @@
-[![MasterHead](https://dribbble.com/shots/3625204-Programmer-s-Life/attachments/9929993?mode=media)]
+[![MasterHead](https://thumbs.gfycat.com/BetterFalseKid-max-1mb.gif)]
 <h1 align="center">Hi 👋, I'm Chinmoy Biswas</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
