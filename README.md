@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chinmoy Biswas</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
 
 - 🔭 I’m currently working for [Hawkdive Media](https://www.hawkdivemedia.com/)
 
