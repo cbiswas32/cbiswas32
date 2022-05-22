@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working for [Hawkdive Media](https://www.hawkdivemedia.com/)
 
-- 🌱 I’m currently learning **Flutter, Firebase, Machine Learning, AI**
+- 🌱 I’m currently learning **Javascript, Flutter, Firebase, Machine Learning, AI**
 
 - 👯 I’m currently working on [Gesture Controlled AI Calculator](https://github.com/cbiswas32/Gesture-Controlled-AI-Calculator)
 
