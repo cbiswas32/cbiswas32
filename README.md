@@ -5,21 +5,21 @@
 
 - 🔭 I’m currently working for [Hawkdive Media](https://www.hawkdivemedia.com/)
 
+- 👨‍💻 All of my projects are available at [My Portfolio](https://cbiswas32.github.io/chinmoy.github.io/)
+
 - 🌱 I’m currently learning **Javascript, Flutter, Firebase, Machine Learning, AI**
 
 - 👯 I’m currently working on [Gesture Controlled AI Calculator](https://github.com/cbiswas32/Gesture-Controlled-AI-Calculator)
 
 - 🤝 I’m looking for help with [ChobiGhor](https://cbiswas32.github.io/chobighor.github.io/)
 
-- 👨‍💻 All of my projects are available at [https://cbiswas32.github.io/chinmoy.github.io/](https://cbiswas32.github.io/chinmoy.github.io/)
-
-- 📝 I regularly write articles on [https://www.facebook.com/chinmoy.biswas.94695459](https://www.facebook.com/chinmoy.biswas.94695459)
+- 📝 I regularly write articles on [Facebook](https://www.facebook.com/chinmoy.biswas.94695459)
 
 - 💬 Ask me about **Python, Java, HTML, CSS**
 
 - 📫 How to reach me **yourchinmoy@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JSQpW2K5j6iwfAnUI4qt4J3vr-lfqNca/view](https://drive.google.com/file/d/1JSQpW2K5j6iwfAnUI4qt4J3vr-lfqNca/view)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1JSQpW2K5j6iwfAnUI4qt4J3vr-lfqNca/view)
 
 - ⚡ Fun fact **There are two ways to write error-free programs; only the third one works.**
 
