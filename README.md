@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **Javascript, Flutter, Firebase, Machine Learning, AI**
 
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1JSQpW2K5j6iwfAnUI4qt4J3vr-lfqNca/view) 
+
 - 👯 I’m currently working on [Gesture Controlled AI Calculator](https://github.com/cbiswas32/Gesture-Controlled-AI-Calculator)
 
 - 🤝 I’m looking for help with [ChobiGhor](https://cbiswas32.github.io/chobighor.github.io/)
@@ -19,7 +21,7 @@
 
 - 📫 How to reach me **yourchinmoy@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1JSQpW2K5j6iwfAnUI4qt4J3vr-lfqNca/view)
+
 
 - ⚡ Fun fact **There are two ways to write error-free programs; only the third one works.**
 
