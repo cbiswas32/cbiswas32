@@ -37,4 +37,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cbiswas32&show_icons=true&locale=en&layout=compact" alt="cbiswas32" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cbiswas32&show_icons=true&locale=en" alt="cbiswas32" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=cbiswas32&show_icons=true&locale=en" alt="cbiswas32" /></p>
