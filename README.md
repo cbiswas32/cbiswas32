@@ -3,6 +3,7 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 
 
+- 🔭 I’m currently working for [Streebo](https://www.streebo.com/)
 - 🔭 I’m currently working for [Hawkdive Media](https://www.hawkdivemedia.com/)
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://cbiswas32.github.io/chinmoy.github.io/)
