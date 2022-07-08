@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working for [Streebo](https://www.streebo.com/)
-- 🔭 I’m currently working for [Hawkdive Media](https://www.hawkdivemedia.com/)
+- 🔭 I've worked for [Hawkdive Media](https://www.hawkdivemedia.com/)
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://cbiswas32.github.io/chinmoy.github.io/)
 
