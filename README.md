@@ -104,14 +104,6 @@
 
 > There are two ways to write error-free programs… only the third one works 😄
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=cbiswas32&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbiswas32&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
