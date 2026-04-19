@@ -1,100 +1,105 @@
 <h2 align="center">Chinmoy Biswas</h2>
 <p align="center">
-Frontend Specialist • Full Stack Developer • 4+ Years Experience
+  Frontend Specialist • Full Stack Developer • 4+ Years Experience
 </p>
 
 <p align="center">
-<a href="https://chinmoy.online">Portfolio</a> • 
-<a href="https://www.linkedin.com/in/chinmoy-biswas-81ab81212/">LinkedIn</a> • 
-<a href="mailto:yourchinmoy@gmail.com">Email</a> • 
-<span>+91 9064037784</span>
+  <a href="https://chinmoy.online">
+    <img src="https://img.shields.io/badge/Portfolio-chinmoy.online-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/chinmoy-biswas-81ab81212/">
+    <img src="https://img.shields.io/badge/LinkedIn-Chinmoy_Biswas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:yourchinmoy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Mobile-%2B91%209064037784-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </p>
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
-Frontend-focused developer with 4+ years of experience building scalable, high-performance web applications. Strong understanding of backend systems, API design, and modern architecture.
+Frontend-focused developer with **4+ years of experience** building scalable, high-performance applications.
 
-Currently working at **Bandhan**, delivering production-grade applications with a focus on performance, usability, and clean engineering practices.
+- Currently working at **Bandhan**
+- Strong in **system design, UI architecture, and performance**
+- Focused on **clean code & production-grade solutions**
 
 ---
 
-## Tech Stack
+## ⚡ Tech Stack
 
-**Frontend**
-- React.js, Next.js, TypeScript  
-- Tailwind CSS, Material UI  
-- Framer Motion  
+### 🎯 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,materialui,framer" />
+</p>
 
-**State & Data**
-- Redux Toolkit, Zustand  
+### 🔁 State & Data
+<p>
+<img src="https://skillicons.dev/icons?i=redux" />
+</p>
+
 - React Query  
+- Zustand  
 
-**Backend**
-- Node.js, Express.js  
+### 🔗 Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-**Databases**
-- PostgreSQL, MongoDB  
-- Neon DB, Supabase  
+### 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
 
-**Tools & Ecosystem**
-- Git, GitHub  
-- Firebase  
-- REST APIs, WebSockets  
-- Docker (Basic)
+- Neon DB  
+- Supabase  
 
----
-
-## Advanced Libraries
-
-- React Flow (Workflow / Graph UI)  
-- Zod (Validation)  
-- React Hook Form / Formik  
-- Axios / Fetch  
-- Recharts / Chart.js  
+### 🧰 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,firebase,docker" />
+</p>
 
 ---
 
-## Projects
+## 🚀 Projects
 
-- **Gesture Controlled AI Calculator**  
-- **AI-powered Smart Notes App (WIP)**  
-- **Invoice & Inventory Management System**  
-- **ChobiGhor – Creative Platform**
+- 🧠 Gesture Controlled AI Calculator  
+- 📒 AI Smart Notes App (WIP)  
+- 🏢 Invoice & Inventory Management System  
+- 🎨 ChobiGhor – Creative Platform  
 
-**Portfolio:**  
-https://chinmoy.online
-
----
-
-## Strengths
-
-- Scalable frontend architecture  
-- Clean and maintainable code practices  
-- Strong API integration and backend understanding  
-- Performance optimization mindset  
-- Real-world product development experience  
+🔗 **Portfolio:** https://chinmoy.online
 
 ---
 
-## Current Focus
+## 📈 Strengths
+
+✔ Scalable frontend architecture  
+✔ API integration & backend understanding  
+✔ Performance optimization  
+✔ Real-world product development  
+
+---
+
+## 🧠 Current Focus
 
 - Frontend System Design  
-- Scalable SaaS Applications  
-- AI-integrated Web Products  
+- SaaS Product Development  
+- AI-integrated Applications  
 
 ---
 
-## Contact
+## 📊 GitHub Stats
 
-- 🌐 https://chinmoy.online  
-- 💼 https://www.linkedin.com/in/chinmoy-biswas-81ab81212/  
-- 📧 yourchinmoy@gmail.com  
-- 📱 +91 9064037784  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cbiswas32&show_icons=true&theme=github_dark" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cbiswas32&theme=github-dark" height="150"/>
+</p>
 
 ---
 
-## Note
+## 💡 Quote
 
 > There are two ways to write error-free programs… only the third one works.
